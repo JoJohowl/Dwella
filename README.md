@@ -22,3 +22,15 @@ Deployment: Fully deployed and accessible online
 In just two days, our team turned an idea into a live product, learning how to iterate quickly under pressure while gaining valuable experience in rapid prototyping and deployment.
 
 🔗 Deployed app: [dwella-sigma.vercel.app](https://dwella-sigma.vercel.app/)
+
+🔮 Future Work
+
+While our hackathon build is a solid prototype, we plan to expand Dwella with:
+
+Backend Integration: Secure data storage, authentication, and personalised matching services.
+
+Improved AI Matching: Smarter recommendations using more diverse datasets.
+
+Enhanced UX/UI: Polished design, accessibility improvements, and more intuitive navigation.
+
+Scalability: Deploying a robust backend to handle real-world traffic and usage.
